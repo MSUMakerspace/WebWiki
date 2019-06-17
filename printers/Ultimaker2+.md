@@ -62,7 +62,7 @@ In order to print on the Ultimakers, we ask that users come into the Makerspace 
 
 We also have a Form 2 SLA Printer from Formlabs. This printer uses a UV laser and photosensitive resin to selectively harden the resin in layers to create a model.
 
-### Form 2 Materials
+### Form 2 Materials
 
 | Material  | Material Cost  | Hourly Cost  |
 |---|---|---|
