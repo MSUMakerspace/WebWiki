@@ -28,44 +28,12 @@
 
 | Material  | Material Cost  | Hourly Cost  |
 |---|---|---|
-| PLA  |   | $0.50/hour  |
-| ABS  |   | $0.50/hour  |
-|  PETG |   | $0.50/hour  |
-| PC  |   | $0.50/hour  |
-|  PA |   | $0.50/hour  |
-|  TPU95 |   | $0.50/hour  |
-
-Material
-
-Material Cost
-
-Hourly Cost
-
-Polylactic Acid (PLA)
-
-$0.30/gram
-
-$0.50/hour
-
-Acrylonitrile butadiene styrene (ABS)
-
-$0.30/gram
-
-Polyethylene Terephthalate Glycol (PETG
-
-$0.30/gram
-
-Polycarbonate (PC)
-
-$0.30/gram
-
-Polyamide (Nylon)
-
-$0.40/gram
-
-Thermoplastic Polyurethane
-
-$0.40/gram
+| PLA  |  $0.30/gram | $0.50/hour  |
+| ABS  |  $0.30/gram | $0.50/hour  |
+|  PETG |  $0.30/gram | $0.50/hour  |
+| PC  |  $0.30/gram | $0.50/hour  |
+|  PA |  $0.40/gram | $0.50/hour  |
+|  TPU95 | $0.40/gram  | $0.50/hour  |
 
 ### Ultimaker 2+ Specifications
 
