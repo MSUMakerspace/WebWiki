@@ -1,0 +1,1 @@
+Source files for the wiki section of the website for the Makerspace at Montana State Unversity. Purpose of the wiki is to create a repositiory of knowledge that is as up-to-date as possible, easy to understand, and powerful enough to empower students to be able to make.
